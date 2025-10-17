@@ -1,6 +1,6 @@
 # leetcode-solutions
 
-Welcome to my **LeetCode solutions** repository
+Welcome to my **LeetCode solutions** repository.
 This repo tracks my progress solving problems on [LeetCode](https://leetcode.com/), with detailed solutions written in **Python**.
 
 ---
