@@ -7,7 +7,7 @@ This repo tracks my progress solving problems on [LeetCode](https://leetcode.com
 
 ## Structure
 Each file contains:
-- The **problem title** and **LeetCode link**
+- The **problem title**
 - My **approach** and **complexity analysis**
 - A clean, working **Python solution**
 
