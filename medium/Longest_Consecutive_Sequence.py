@@ -3,7 +3,7 @@ class Solution:
 # Approach: hash set; only start counting from numbers that have no predecessor (x-1 not in set)
 # Time Complexity: O(n)
 # Space Complexity: O(n)
-    def longestConsecutive(self, nums: List[int]) -> int:
+    def longestConsecutive(self, nums: list[int]) -> int:
         if not nums:
             return 0
 
