@@ -18,5 +18,5 @@ class Solution:
                     y += 1
                     length += 1
                 best = max(best, length)
-
+                
         return best
