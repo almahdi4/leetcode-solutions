@@ -1,8 +1,8 @@
 class Solution:
 # 128. Longest Consecutive Sequence
-# Approach: hash set; only start counting from numbers that have no predecessor (x-1 not in set)
 # Time Complexity: O(n)
 # Space Complexity: O(n)
+# Approach: hash set; only start counting from numbers that have no predecessor (x-1 not in set)
     def longestConsecutive(self, nums: list[int]) -> int:
         if not nums:
             return 0
